@@ -7,4 +7,4 @@ Step to make:
 
 ### Here is the demo of the responsive navbar.
 
-![GIF Description](assets/demo.gif)
+![GIF Description](/navbar/assets/demo.gif)
